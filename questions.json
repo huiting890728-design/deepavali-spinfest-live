@@ -1,0 +1,223 @@
+[
+  {
+    "id": 1,
+    "en": "What do diyas symbolize during Diwali?",
+    "zh": "屠妖节中的油灯象征着什么？",
+    "options": [
+      "Wealth and prosperity \t财富与繁荣",
+      "Light overcoming darkness 光明战胜黑暗",
+      "Friendship and unity 友谊与团结",
+      "The harvest season 收获季节can"
+    ],
+    "answer": "B",
+    "explanation": "Diyas represent the victory of good over evil and the triumph of light over darkness. 油灯象征善良战胜邪恶，也象征光明驱散黑暗"
+  },
+  {
+    "id": 2,
+    "en": "What do people usually prepare before Deepavali?",
+    "zh": "屠妖节前，人们通常会做什么准备？",
+    "options": [
+      "Cleaning the house 打扫房屋",
+      "Decorating the home 装饰家居",
+      "Buying new clothes 购买新衣",
+      "All of the above 以上皆是"
+    ],
+    "answer": "D",
+    "explanation": "Families clean, decorate, and buy new clothes to welcome prosperity and fresh beginnings. 人们会打扫、装饰并购买新衣，以迎接繁荣与新的开始。"
+  },
+  {
+    "id": 3,
+    "en": "What is the colourful artwork drawn at the entrance of Indian homes called?",
+    "zh": "印度家庭门前常见的彩色图案叫什么？",
+    "options": [
+      "Kolam",
+      "Rangoli",
+      "Henna",
+      "Mandala"
+    ],
+    "answer": "B",
+    "explanation": "Rangoli is a traditional floor art created to welcome guests, deities, and positive energy. Rangoli 是传统地绘，用来迎接客人、神明和正能量。"
+  },
+  {
+    "id": 4,
+    "en": "Why do people wear new clothes during Deepavali?",
+    "zh": "为什么屠妖节要穿新衣？",
+    "options": [
+      "To show wealth 展示财富",
+      "To symbolize new beginnings 象征新的开始",
+      "To follow tradition 遵循传统",
+      "Because shops offer discounts 因为商店有折扣"
+    ],
+    "answer": "B",
+    "explanation": "New clothes represent renewal, purity, and stepping into a fresh, blessed year. 穿新衣象征新的开始、纯洁与迎接更好的未来。"
+  },
+  {
+    "id": 5,
+    "en": "Why are many sweets prepared during Deepavali?",
+    "zh": "为什么屠妖节会准备许多甜食？",
+    "options": [
+      "To symbolize sweetness and happiness 象征甜蜜与幸福",
+      "To share joy with others 分享喜悦",
+      "To offer to gods and guests 供奉神明与招待客人",
+      "All of the above 以上皆是"
+    ],
+    "answer": "D",
+    "explanation": "Sweets represent joy, gratitude, and the sweetness of new beginnings. 甜食象征喜悦、感恩和新开始的甜蜜。"
+  },
+  {
+    "id": 6,
+    "en": "What does gifting cookies and snacks during Deepavali represent?",
+    "zh": "屠妖节时，亲友之间互赠年饼和甜点代表什么？",
+    "options": [
+      "Blessings 祝福",
+      "Friendship 友谊",
+      "Sharing happiness 分享快乐",
+      "All of the above 以上皆是"
+    ],
+    "answer": "D",
+    "explanation": "Exchanging festive treats strengthens bonds and spreads joy and blessings. 互赠节庆食品象征友谊、祝福与分享快乐。"
+  },
+  {
+    "id": 7,
+    "en": "Laddu is a round Indian sweet. What does its round shape symbolize?",
+    "zh": "印度传统甜点 Laddu 通常是圆形的，它象征什么？",
+    "options": [
+      "Unity 团结",
+      "Wholeness 圆满",
+      "Happiness 幸福",
+      "All of the above 以上皆是"
+    ],
+    "answer": "D",
+    "explanation": "The round shape represents completeness, unity, and joyful celebration. 圆形象征圆满、团结与幸福。"
+  },
+  {
+    "id": 8,
+    "en": "Murukku is commonly eaten during Deepavali. Is it sweet or savoury?",
+    "zh": "Murukku（麻花卷饼）是屠妖节常见食品，它属于甜食还是咸食？",
+    "options": [
+      "Sweet 甜",
+      "Savoury 咸",
+      "Both 都有",
+      "Neither 都不是"
+    ],
+    "answer": "B",
+    "explanation": "Murukku is a crunchy savoury snack made with rice flour and spices. Murukku 是以米粉和香料制作的咸味酥脆小吃。"
+  },
+  {
+    "id": 9,
+    "en": "Why are many types of festive snacks prepared during Deepavali?",
+    "zh": "为什么节庆食品通常会准备很多种类？",
+    "options": [
+      "To show abundance 展现丰盛",
+      "To welcome guests 欢迎亲友",
+      "To symbolize prosperity 象征富足",
+      "All of the above 以上皆是"
+    ],
+    "answer": "D",
+    "explanation": "A variety of snacks reflects abundance, generosity, and festive hospitality. 多种节庆食品象征丰盛、富足与热情好客。"
+  },
+  {
+    "id": 10,
+    "en": "Why do people draw Rangoli at their doorsteps during Deepavali?",
+    "zh": "为什么屠妖节时，人们会在家门前绘制 Rangoli？",
+    "options": [
+      "To welcome good luck 欢迎好运",
+      "To invite blessings 迎接祝福",
+      "To bring light into the home 让光明进入家中",
+      "All of the above 以上皆是"
+    ],
+    "answer": "D",
+    "explanation": "Rangoli is believed to attract prosperity, positivity, and divine blessings. Rangoli 被认为能吸引繁荣、正能量与祝福。"
+  },
+  {
+    "id": 11,
+    "en": "Why do many people apply Henna during Deepavali?",
+    "zh": "为什么许多人会在屠妖节期间绘制 Henna？",
+    "options": [
+      "It symbolizes auspiciousness 象征吉祥",
+      "It brings joy and beauty 增添喜悦与美感",
+      "It is part of celebration 属于节庆传统",
+      "All of the above 以上皆是"
+    ],
+    "answer": "D",
+    "explanation": "Henna represents blessings, beauty, and festive happiness. Henna 象征祝福、美丽与节庆的喜悦。"
+  },
+  {
+    "id": 12,
+    "en": "What are common greetings exchanged during Deepavali visits?",
+    "zh": "屠妖节亲友拜年时常说的祝语是什么？",
+    "options": [
+      "“Happy Deepavali! May light fill your home.” 屠妖节快乐！愿光明照亮您的家。",
+      "“May goodness triumph in your heart.” 愿善念常驻心中。",
+      "“Wishing you joy and prosperity.” 祝你喜悦与繁荣。",
+      "All of the above 以上皆是"
+    ],
+    "answer": "D",
+    "explanation": "Deepavali greetings focus on light, goodness, joy, and blessings. 屠妖节祝语围绕光明、善念、喜悦与祝福。"
+  },
+  {
+    "id": 13,
+    "en": "Why does Deepavali fall on different dates each year?",
+    "zh": "为什么屠妖节每年日期不同？",
+    "options": [
+      "It follows the Hindu lunar calendar （因为遵循印度教农历）",
+      "It depends on weather conditions （取决于天气）",
+      "It is chosen by the government （由政府决定）",
+      "It is based on harvest cycles （根据收成周期）"
+    ],
+    "answer": "A",
+    "explanation": "The Hindu calendar is based on lunar phases, so festival dates shift each year just like Chinese Lunar New Year. 印度教使用农历，因此节日日期会随月亮周期变化，就像华人农历新年一样。"
+  },
+  {
+    "id": 14,
+    "en": "Which landmark in Little India is known for its colourful façade and is popular during Deepavali?",
+    "zh": "小印度中哪一个地标以其鲜艳的外墙而闻名，并在屠妖节期间特别受欢迎？",
+    "options": [
+      "Sri Mariamman Temple （马里安曼兴都庙）",
+      "House of Tan Teng Niah （陈东尼亚故居）",
+      "Sultan Mosque （苏丹回教堂）",
+      "Buddha Tooth Relic Temple （佛牙寺）"
+    ],
+    "answer": "B",
+    "explanation": "It’s one of the last surviving Chinese villas in Little India, famous for its bright colours and photo spots. 这是小印度仅存的华人别墅之一，以鲜艳的色彩和拍照景点而闻名。"
+  },
+  {
+    "id": 15,
+    "en": "What is the name of the major Hindu temple in Little India where many visit during Deepavali?",
+    "zh": "小印度中哪一座主要的兴都庙在屠妖节期间吸引大量访客？",
+    "options": [
+      "Sri Veeramakaliamman Temple （维拉玛卡里雅曼庙）",
+      "Sri Srinivasa Perumal Temple （斯里斯里尼瓦沙柏马庙）",
+      "Sri Thendayuthapani Temple （登达尤塔帕尼庙）",
+      "Sri Krishnan Temple （克里希南庙）"
+    ],
+    "answer": "A",
+    "explanation": "Located along Serangoon Road, it is one of the most iconic temples in Little India and a key Deepavali worship site. 位于实龙岗路，是小印度最具代表性的兴都庙之一，也是屠妖节的重要祭拜地点。"
+  },
+  {
+    "id": 16,
+    "en": "Which festival activity is commonly seen along the streets of Little India during Deepavali?",
+    "zh": "屠妖节期间，小印度街道上常见哪一种节庆活动？",
+    "options": [
+      "Dragon boat races （龙舟赛）",
+      "Lantern riddles （灯谜）",
+      "Street bazaars （街头市集）",
+      "Lion dance competitions （舞狮比赛）"
+    ],
+    "answer": "C",
+    "explanation": "Deepavali brings festive markets selling snacks, clothes, decorations, and traditional items. 屠妖节期间会有节庆市集，售卖零食、服饰、装饰品和传统物品。"
+  },
+  {
+    "id": 17,
+    "en": "What is a popular drink served during Deepavali gatherings in Singapore?",
+    "zh": "新加坡屠妖节聚会中常见的饮品是什么？",
+    "options": [
+      "Bandung （玫瑰糖奶）",
+      "Masala tea （玛莎拉奶茶）",
+      "Sugarcane juice （甘蔗汁）",
+      "Milo dinosaur （美禄恐龙）"
+    ],
+    "answer": "B",
+    "explanation": "Masala tea is a spiced Indian milk tea commonly served during festive gatherings. 玛莎拉奶茶是印度香料奶茶，常在节庆聚会中供应。"
+  }
+]
